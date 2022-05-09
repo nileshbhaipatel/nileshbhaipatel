@@ -3,7 +3,7 @@
  
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nileshbhaipatel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,8 +11,10 @@
   <a href="https://twitter.com/nilesh_patel07">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  </br>
+  <img src="https://komarev.com/ghpvc/?username=nileshbhaipatel&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=nileshbhaipatel&style=flat-square&color=blue" alt=""/>
+
 ### Hi there 👋
 
 
